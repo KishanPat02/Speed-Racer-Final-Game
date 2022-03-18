@@ -1,2 +1,1 @@
-# Speed-Racer-Final-Game
-Fun Car Game In JS
+# C37-SpeedRacer_ReferenceCode
